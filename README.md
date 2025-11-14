@@ -204,6 +204,9 @@ long microsecondsToCentimeters(long microseconds)
 # OUTPUT:
 
 <img width="772" height="421" alt="image" src="https://github.com/user-attachments/assets/16aa1429-39fe-44c0-805d-555ea62ca507" />
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/003c2015-2856-48c8-bf05-6a212e0d2699" />
+
 <img width="445" height="239" alt="image" src="https://github.com/user-attachments/assets/4c343d7b-fb61-4078-a539-dcb8e444fcc5" />
 
 # RESULT:
